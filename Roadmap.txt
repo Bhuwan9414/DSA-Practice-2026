@@ -1,0 +1,187 @@
+1. Arrays & Strings
+
+Easy
+
+Two Sum (Done)
+Best Time to Buy and Sell Stock (Done)
+
+Medium
+
+Product of Array Except Self (later)
+Rotate Array
+
+Medium/Hard
+Merge Intervals
+
+Concepts: Traversal, prefix/suffix, in-place operations, intervals.
+
+2. Hashing
+
+Easy
+
+Contains Duplicate
+Valid Anagram
+
+Medium
+Group Anagrams
+Top K Frequent Elements
+
+Medium
+Longest Consecutive Sequence
+
+Concepts: HashMap, HashSet, frequency counting.
+
+3. Two Pointers
+Easy
+Valid Palindrome
+Medium
+Two Sum II
+Container With Most Water
+3Sum
+Medium
+Sort Colors
+
+Concepts: Opposite pointers, partitioning.
+
+4. Sliding Window
+Easy
+Maximum Average Subarray I
+Medium
+Longest Substring Without Repeating Characters
+Permutation in String
+Maximum Vowels in a Substring
+Medium
+Longest Repeating Character Replacement
+
+Concepts: Fixed window, variable window.
+
+5. Binary Search
+Easy
+Binary Search
+Medium
+Search Insert Position
+Search in Rotated Sorted Array
+Find Minimum in Rotated Sorted Array
+Medium
+Koko Eating Bananas
+
+Concepts: Search space reduction, answer binary search.
+
+6. Linked List
+Easy
+Reverse Linked List
+Easy/Medium
+Middle of Linked List
+Medium
+Linked List Cycle
+Remove Nth Node From End
+Medium
+Reorder List
+
+Concepts: Fast-slow pointers, pointer manipulation.
+
+7. Stack
+Easy
+Valid Parentheses
+Medium
+Min Stack
+Daily Temperatures
+Evaluate Reverse Polish Notation
+Medium
+Largest Rectangle in Histogram
+
+Concepts: Monotonic stack.
+
+8. Queue / Deque
+Easy
+Implement Queue Using Stacks
+Medium
+Number of Recent Calls
+Dota2 Senate
+Medium
+Sliding Window Maximum
+Medium
+Rotting Oranges
+
+Concepts: Queue processing, BFS basics.
+
+9. Recursion & Backtracking
+Easy
+Fibonacci Number (Recursive)
+Medium
+Subsets
+Permutations
+Combination Sum
+Medium
+Letter Combinations of a Phone Number
+
+Concepts: Decision tree, backtracking template.
+
+10. Trees & BST
+Easy
+Maximum Depth of Binary Tree
+Invert Binary Tree
+Medium
+Binary Tree Level Order Traversal
+Validate BST
+Medium
+Lowest Common Ancestor of BST
+
+Concepts: DFS, BFS, recursion.
+
+11. Heap / Priority Queue
+Easy
+Kth Largest Element in a Stream
+Medium
+Last Stone Weight
+K Closest Points to Origin
+Kth Largest Element in an Array
+Medium
+Task Scheduler
+
+Concepts: Min Heap, Max Heap.
+
+12. Graphs (BFS / DFS)
+Easy
+Find if Path Exists in Graph
+Medium
+Number of Islands
+Clone Graph
+Course Schedule
+Medium
+Pacific Atlantic Water Flow
+
+Concepts: Traversal, cycle detection.
+
+13. Dynamic Programming (Basic Refresh)
+Easy
+Climbing Stairs
+Easy
+Min Cost Climbing Stairs
+Medium
+House Robber
+Coin Change
+Medium
+Longest Increasing Subsequence
+
+Concepts: State definition, memoization, tabulation.
+
+Suggested 14-Day Refresh Plan
+
+Day 1: Arrays & Strings
+Day 2: Hashing
+Day 3: Two Pointers
+Day 4: Sliding Window
+Day 5: Binary Search
+Day 6: Linked List
+Day 7: Stack + Queue
+
+Day 8: Recursion
+Day 9: Trees Basics
+Day 10: BST + Tree Traversal
+Day 11: Heap
+Day 12: Graph BFS/DFS
+Day 13: DP Basics
+Day 14: Revision + Mock Problems
+
+If you finish these ~60–70 problems, you'll recover about 80–90% of your previous DSA knowledge, and then you can move directly into a NeetCode 150 / interview-prep phase without wasting time on full courses.
