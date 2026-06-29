@@ -95,18 +95,44 @@ int stock(vector <int> arr, int n){
 
 // rotate array
 
+void reverseArray(vector <int> &arr, int left, int right){
+    
+    while(left<=right){
 
+        swap(arr[left], arr[right]);
+
+        left++;
+        right--;
+
+    }
+
+}
+
+
+void rotateArray(vector <int> &arr, int k){
+
+    int n = arr.size();
+
+    k = k%n;
+
+    reverseArray(arr, 0, n-1);
+    reverseArray(arr, 0, k-1);
+    reverseArray(arr, k, n-1);
+
+}
 
 
 int main (){
 
-    vector <int> arr = {2,7,11,15};
-    int target = 9;
+    vector <int> arr = {1,2,3,4,5,6,7};
+    int k = 9;
     int n = arr.size();
 
-    int ans = stock(arr, n);
+    
+    rotateArray(arr, k);
 
-    cout << ans << endl;
-
+    for(int i=0;i<n;i++){
+        cout << arr[i] << " ";
+    }
 
 }
